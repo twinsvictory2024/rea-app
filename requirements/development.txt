@@ -1,0 +1,7 @@
+-r base.txt
+
+# Линтеры и форматтеры
+ruff==0.14.10
+
+# Debug
+django-debug-toolbar==6.2.0
